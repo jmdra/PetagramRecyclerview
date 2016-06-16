@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="texto_titulo">Hello World!!!</string>
+    <string name="texto_boton_click">Click</string>
+    <string name="mensaje">Favorito :)</string>
+    <string name="texto_Accion">Acción</string>
+    <string name="titulo_tarjeta">Android 5.0</string>
+    <string name="descripcion_tarjeta">Esta es la versión en la que se Incluyó Material Design Android Lollipop</string>
+    <string name="segundo_activity">Like</string>
+    <string name="nombre">Charmander</string>
+    <string name="likes">10</string>
+    <string name="pnombre">nombre</string>
+    <string name="plikes">likes</string>
+    <string name="favs">Mis Favoritos</string>
+    <string name="opciones">Opciones</string>
+</resources>
